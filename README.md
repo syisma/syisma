@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @syisma
-- 👀 I’m interested in Python
+- 👋 Hi, I’m Syed Ismail, ICT & Robotics Teacher
+- 👀 I’m interested in Python, MySQL, HTML, C++
 - 🌱 I’m currently learning Python advanced version
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me - syisma@gmail.com
